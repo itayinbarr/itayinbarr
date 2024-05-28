@@ -7,7 +7,7 @@ My journey has been all about teamwork and creative problem-solving. Whether it'
 #### I research at [Brains & Machines Lab](https://brainsandmachines.org/), work at [i-BrainTech](http://www.i-brain.tech/) and study computational neuroscience at BGU.
 
 
-### Adventures
+### Latest Adventures
 
 - **NASA AI Contest:** Our team snagged second place in a [competitive NASA AI contest](https://drivendata.co/blog/ai-assistants-winners), standing out among 300 teams. This was a huge nod to our collaborative innovation and problem-solving skills.
 
