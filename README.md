@@ -1,6 +1,4 @@
-# Hi there, I'm Itay Inbar 👋
-
-### If you're reading this, it means we have at least one common interest. Let's find which one!
+## If you're reading this, it means we have at least one common interest. Let's find which one!
 
 I'm passionate about exploring how our brains tick and how tech can tag along. Looking into how the brain works and mixing it with tech is my kind of adventure. I am dedicated to discovering ways technology and neuroscience can come together to unlock some of life’s mysteries.
 
