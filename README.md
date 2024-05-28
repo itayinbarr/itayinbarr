@@ -14,24 +14,14 @@ I research at [Brains & Machines Lab](https://brainsandmachines.org/), and work 
 - **B.Sc. Computational Neuroscience**
   - Ben Gurion University of the Negev (2021-2024)
 
-#### Challenging Experience 
-Our team achieved second place in a [competitive NASA AI contest](https://drivendata.co/blog/ai-assistants-winners), standing out among 300 teams. This experience was a testament to our collaborative innovation, problem-solving capabilities, and dedication.
+### Adventures & Projects
 
-#### Educational Experience 
-I developed [interactive web simulators](https://neuropractical.web.app/eeg-simulator) intended to break down neuroscience concepts. These tools became engaging for students wanting to explore neuroscience in a practical way. This led to an unexpected opportunity: creating neuron model visualizations for an academic course, combining educational innovation with real-world application.
+**NASA AI Contest:** Our team snagged second place in a [competitive NASA AI contest](https://drivendata.co/blog/ai-assistants-winners), standing out among 300 teams. This was a huge nod to our collaborative innovation and problem-solving skills.
 
-#### Dynamic Experience 
-I led an [impact project](https://www.linkedin.com/posts/itayinbardev_%D7%90%D7%99%D7%9A-%D7%9E%D7%91%D7%99%D7%90%D7%99%D7%9D-%D7%9E%D7%95%D7%93%D7%A2%D7%95%D7%AA-%D7%97%D7%91%D7%A8%D7%AA%D7%99%D7%AA-%D7%90%D7%9C-150000-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%9D-activity-7068622939063017472-ix_B?utm_source=share&utm_medium=member_desktop) that captured the attention of 150,000 users in 48 hours, merging legal education with user-friendly technology. This initiative demanded strong project management skills, effective communication, and a clear vision to deliver impactful solutions within tight deadlines.
+**Interactive Web Simulators:** I created [interactive web simulators](https://neuropractical.web.app/eeg-simulator) to make neuroscience concepts more engaging. This led to creating neuron model visualizations for an academic course, combining educational innovation with real-world application.
 
-## Let me hear your thoughts. 
+**Impact Project:** I spearheaded an [impact project](https://www.linkedin.com/posts/itayinbardev_%D7%90%D7%99%D7%9A-%D7%9E%D7%91%D7%99%D7%90%D7%99%D7%9D-%D7%9E%D7%95%D7%93%D7%A2%D7%95%D7%AA-%D7%97%D7%91%D7%A8%D7%AA%D7%99%D7%AA-%D7%90%D7%9C-150000-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%9D-activity-7068622939063017472-ix_B?utm_source=share&utm_medium=member_desktop) that reached 150,000 users in 48 hours, blending legal education with user-friendly tech. This demanded strong project management, effective communication, and a clear vision to deliver impactful solutions quickly.
 
-### We can also just grab coffee.
+### Let's Connect. 
 
-
-> “Cells that fire together, wire together.” - Donald O. Hebb, "The Organization of Behavior", 1949
-
-## GitHub Stats
-![Itay's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Badge](https://img.shields.io/badge/Neuroscience-brain-ff69b4)
-![Badge](https://img.shields.io/badge/Technology-innovation-blue)
+#### We can also just grab coffee.
