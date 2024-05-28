@@ -1,6 +1,6 @@
 # Hi there, I'm Itay Inbar 👋
 
-#### If you're reading this, it means we have at least one common interest. Let's find which one!
+### If you're reading this, it means we have at least one common interest. Let's find which one!
 
 I'm passionate about exploring how our brains tick and how tech can tag along. Looking into how the brain works and mixing it with tech is my kind of adventure. I am dedicated to discovering ways technology and neuroscience can come together to unlock some of life’s mysteries.
 
@@ -9,6 +9,8 @@ My journey has been all about teamwork and creative problem-solving. Whether it'
 #### I research at [Brains & Machines Lab](https://brainsandmachines.org/), work at [i-BrainTech](http://www.i-brain.tech/) and study computational neuroscience at BGU.
 
 ![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 
 
 ### Adventures & Projects
@@ -22,4 +24,4 @@ My journey has been all about teamwork and creative problem-solving. Whether it'
 
 ### Let's Connect!
 
-#### We can also just grab coffee
+(We can also just grab coffee)
