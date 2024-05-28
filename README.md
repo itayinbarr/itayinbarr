@@ -8,12 +8,11 @@ My journey has been all about teamwork and creative problem-solving. Whether it'
 
 I research at [Brains & Machines Lab](https://brainsandmachines.org/), work at [i-BrainTech](http://www.i-brain.tech/) and study computational neuroscience at BGU.
 
-![image]({[BadgeURLHere](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)})
-![image]({[BadgeURLHere](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)})
-![image]({[BadgeURLHere](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)})
-![image]({[BadgeURLHere](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)})
+![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
+![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 ### Adventures & Projects
