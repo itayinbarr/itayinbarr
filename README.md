@@ -2,17 +2,19 @@
 
 If you're reading this, it means we have at least one common interest. Let's find which one!
 
-## About Me
-
 I'm passionate about exploring how our brains tick and how tech can tag along. Looking into how the brain works and mixing it with tech is my kind of adventure. I am dedicated to discovering ways technology and neuroscience can come together to unlock some of life’s mysteries.
 
 My journey has been all about teamwork and creative problem-solving. Whether it's leading a project or brainstorming with buddies, I bring enthusiasm and a knack for breaking down complex ideas into fun, understandable bits.
 
-I research at [Brains & Machines Lab](https://brainsandmachines.org/), and work at [i-BrainTech](http://www.i-brain.tech/).
+I research at [Brains & Machines Lab](https://brainsandmachines.org/), work at [i-BrainTech](http://www.i-brain.tech/) and study computational neuroscience at BGU.
 
-### Education
-- **B.Sc. Computational Neuroscience**
-  - Ben Gurion University of the Negev (2021-2024)
+![image]({[BadgeURLHere](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)})
+![image]({[BadgeURLHere](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)})
+![image]({[BadgeURLHere](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)})
+![image]({[BadgeURLHere](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)})
+
+
+
 
 ### Adventures & Projects
 
