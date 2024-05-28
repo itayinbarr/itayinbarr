@@ -10,7 +10,7 @@ My journey has been all about teamwork and creative problem-solving. Whether it'
 
 ![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Adventures & Projects
+### Adventures
 
 **NASA AI Contest:** Our team snagged second place in a [competitive NASA AI contest](https://drivendata.co/blog/ai-assistants-winners), standing out among 300 teams. This was a huge nod to our collaborative innovation and problem-solving skills.
 
