@@ -4,7 +4,7 @@ I'm passionate about exploring how our brains tick and how tech can tag along. L
 
 My journey has been all about teamwork and creative problem-solving. Whether it's leading a project or brainstorming with buddies, I bring enthusiasm and a knack for breaking down complex ideas into fun, understandable bits.
 
-#### I research at [Brains & Machines Lab](https://brainsandmachines.org/), work at [i-BrainTech](http://www.i-brain.tech/) and study computational neuroscience at BGU.
+#### I research at [Brains & Machines Lab](https://brainsandmachines.org/), data scientist at [BRAIN.Q](https://www.brainqtech.com/) and study computational neuroscience at BGU.
 
 
 ### Latest Adventures
