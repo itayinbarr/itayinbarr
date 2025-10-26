@@ -4,7 +4,6 @@ I create technology and connect people.
 
 I'm where neuroscience and technology meet.
 
----
 
 ## What I do
 
@@ -14,7 +13,6 @@ I use math and neurobiology to understand how the brain works.
 
 **Researcher** at [Brains & Machines Lab](https://brainsandmachines.org/), using deep learning to learn how we perceive the world.
 
----
 
 ## Wins I'm proud of
 
@@ -24,7 +22,7 @@ I use math and neurobiology to understand how the brain works.
 
 **Released open-source libraries** – Like [web-muse](https://github.com/itayinbarr/web-muse), which connects consumer EEG devices directly to the browser, allowing plug-and-play development.
 
----
+
 
 ## Let's talk
 
