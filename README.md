@@ -1,20 +1,31 @@
-### If you're reading this, it means we have at least one common interest. Let's find which one!
+# I'm Itay
 
-I'm passionate about exploring how our brains tick and how tech can tag along. Looking into how the brain works and mixing it with tech is my kind of adventure. I am dedicated to discovering ways technology and neuroscience can come together to unlock some of life’s mysteries.
+I create technology and connect people.
 
-My journey has been all about teamwork and creative problem-solving. Whether it's leading a project or brainstorming with buddies, I bring enthusiasm and a knack for breaking down complex ideas into fun, understandable bits.
+I'm where neuroscience and technology meet.
 
-#### I research at [Brains & Machines Lab](https://brainsandmachines.org/), data scientist at [BRAIN.Q](https://www.brainqtech.com/) and study computational neuroscience at BGU.
+---
 
+## What I do
 
-### Latest Adventures
+I use math and neurobiology to understand how the brain works.
 
-- **NASA AI Contest:** Our team snagged second place in a [competitive NASA AI contest](https://drivendata.co/blog/ai-assistants-winners), standing out among 300 teams. This was a huge nod to our collaborative innovation and problem-solving skills.
+**Data Scientist** at [BRAIN.Q](https://brainqtech.com/), focused on analyzing neural signal processing in clinical settings to make technology better.
 
-- **Meta Global Llama Community Summit:** Invited and hosted by Meta at their HQ in California, participating alongside 60 experts from 26 countries. Engaged in discussions on leveraging AI for positive change in healthcare, education, and sustainable development. Excited about the potential partnerships and collaborations forged during this event.
+**Researcher** at [Brains & Machines Lab](https://brainsandmachines.org/), using deep learning to learn how we perceive the world.
 
-- **150K Users Project:** I spearheaded an [impact project](https://www.linkedin.com/posts/itayinbardev_%D7%90%D7%99%D7%9A-%D7%9E%D7%91%D7%99%D7%90%D7%99%D7%9D-%D7%9E%D7%95%D7%93%D7%A2%D7%95%D7%AA-%D7%97%D7%91%D7%A8%D7%AA%D7%99%D7%AA-%D7%90%D7%9C-150000-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%9D-activity-7068622939063017472-ix_B?utm_source=share&utm_medium=member_desktop) that reached 150,000 users in 48 hours, blending legal education with user-friendly tech. This demanded strong project management, effective communication, and a clear vision to deliver impactful solutions quickly.
+---
 
-### Let's Connect!
+## Wins I'm proud of
 
-We can also just grab coffee.
+**2nd place in a NASA AI research competition** - Won competing against 300 teams. Designed and built an AI system to answer NASA's challenge in research domains. [Read NASA's article about it](https://drivendata.co/blog/ai-assistants-winners)
+
+**Founded a neurotech community** – Dedicated to making neurotechnology tools more accessible to builders, founders, and other non-neuroscientists. Hundreds have joined. [Check it out](https://www.reddit.com/r/BrainHackersLab/)
+
+**Released open-source libraries** – Like [web-muse](https://github.com/itayinbarr/web-muse), which connects consumer EEG devices directly to the browser, allowing plug-and-play development.
+
+---
+
+## Let's talk
+
+Reach out! I'd love to connect.
