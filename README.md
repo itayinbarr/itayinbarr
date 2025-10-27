@@ -1,6 +1,6 @@
-I create technology and connect people.
+Creating technology and connecting people.
 
-I'm where neuroscience and technology meet.
+Currently where neuroscience and technology meet.
 
 
 ### What I do
@@ -12,7 +12,7 @@ I use math and neurobiology to understand how the brain works.
 - **Researcher** at [Brains & Machines Lab](https://brainsandmachines.org/), using deep learning to learn how we perceive the world.
 
 
-### Wins I'm proud of
+### Things I'm proud of
 
 - **2nd place in a NASA AI research competition** - Won competing against 300 teams. Designed and built an AI system to answer NASA's challenge in research domains. [Read NASA's article about it](https://drivendata.co/blog/ai-assistants-winners)
 
